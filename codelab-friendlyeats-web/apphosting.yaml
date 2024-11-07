@@ -11,7 +11,7 @@ env:
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
     value: "153480331632"
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: "1:153480331632:web:3bd92d6f88fbb3059f8fb5"
+    value: "1:153480331632:web:a74e33c76723aa339f8fb5"
 
 
 
