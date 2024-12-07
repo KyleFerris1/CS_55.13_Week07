@@ -1,5 +1,3 @@
-CS55.13 Students: Use this workspace to submit your homework for Week 7: Assignment 8: Draft Data-Driven Full-Stack App
-
 Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
 
 ## Getting Started
