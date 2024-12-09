@@ -15,11 +15,11 @@ env:
 
 
 
-const firebaseConfig = {
-  ,apiKey: "AIzaSyCPYxwp0YaaSNjaiEYxrOr0YyDYPvZ1x1w"
-  authDomain: "friendlyeats-codelab-2003e.firebaseapp.com",
-  projectId: "friendlyeats-codelab-2003e",
-  storageBucket: "friendlyeats-codelab-2003e.firebasestorage.app",
-  messagingSenderId: "153480331632",
-  appId: "1:153480331632:web:a74e33c76723aa339f8fb5"
-};
+# const firebaseConfig = {
+  # ,apiKey: "AIzaSyCPYxwp0YaaSNjaiEYxrOr0YyDYPvZ1x1w"
+  # authDomain: "friendlyeats-codelab-2003e.firebaseapp.com",
+  # projectId: "friendlyeats-codelab-2003e",
+  # storageBucket: "friendlyeats-codelab-2003e.firebasestorage.app",
+  # messagingSenderId: "153480331632",
+  # appId: "1:153480331632:web:a74e33c76723aa339f8fb5"
+# }; 
