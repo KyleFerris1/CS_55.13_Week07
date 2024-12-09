@@ -1,4 +1,4 @@
-import "@/app/styles.css";
+import "@/src/app/styles.css";
 import Header from "@/src/components/Header.jsx";
 import { getAuthenticatedAppForUser } from "@/src/lib/firebase/serverApp";
 // Force next.js to treat this route as server-side rendered
